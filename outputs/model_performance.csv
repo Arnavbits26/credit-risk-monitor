@@ -1,0 +1,5 @@
+model,sample,auc,gini,ks
+champion,development,0.8243,0.6486,0.5163
+champion,holdout,0.794,0.588,0.4746
+challenger,development,0.9707,0.9413,0.8245
+challenger,holdout,0.7656,0.5312,0.4302

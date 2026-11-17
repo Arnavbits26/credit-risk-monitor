@@ -1,0 +1,6 @@
+dimension,segment,accounts,exposure,bad_rate,exposure_share,bad_rate_ratio,status
+age_band,<=25,190,570638,0.4211,0.1744,1.4035,AMBER
+housing,for free,108,529871,0.4074,0.162,1.358,AMBER
+employment_duration,... < 1 year,172,507822,0.407,0.1552,1.3566,AMBER
+housing,rent,179,558937,0.3911,0.1709,1.3035,AMBER
+purpose,car (new),234,716748,0.3803,0.2191,1.2678,AMBER

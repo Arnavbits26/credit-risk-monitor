@@ -1,0 +1,7 @@
+kri,value,status
+Score PSI (dev vs holdout),0.0293,GREEN
+AUC drop (dev - holdout),0.0303,AMBER
+Exposure HHI: purpose,0.0773,GREEN
+Exposure HHI: age_band,0.0677,GREEN
+Exposure HHI: housing,0.2508,RED
+Exposure HHI: employment_duration,0.0428,GREEN
